@@ -6,6 +6,7 @@
     width: 65%;
     max-width: 1000px;
     min-height: 100px;
+    max-height: 844px;
     background-color: rgb(245, 239, 231);
     margin: 0px;
     display: grid;
@@ -16,14 +17,14 @@
     position: initial;
     background-color: rgb(205 114 234);
     padding: 20px;
-    height:100vh;
+    height:844px;
  
 }
 .right {
     position: initial;
     background-color: rgb(226 159 225);
     padding: 20px;
-    height:100vh;
+    height:844px;
  
 }
 
