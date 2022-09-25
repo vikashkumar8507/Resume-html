@@ -1,0 +1,72 @@
+*{
+    margin-top: 0;
+}
+
+.main {
+    width: 65%;
+    max-width: 1000px;
+    min-height: 100px;
+    background-color: rgb(245, 239, 231);
+    margin: 0px;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+    
+}
+.left {
+    position: initial;
+    background-color: rgb(205 114 234);
+    padding: 20px;
+    height:100vh;
+ 
+}
+.right {
+    position: initial;
+    background-color: rgb(226 159 225);
+    padding: 20px;
+    height:100vh;
+ 
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skills,ul{
+    list-style: none;
+    padding: 0;
+}
+th{
+    text-align: left;
+    padding: 10px;
+    font-family: 'Bree Serif', serif;
+}
+td{
+    padding: 10px;
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+.image, .Contact, .Skills, .Language, .Hobbies, .title,
+.Summary, .Experience, .Education, .project {
+    margin-bottom: 10px;
+}
+h2{
+    font-family: 'Bree Serif', serif;
+}
+.name{
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+p{
+    font-family: 'Baloo Bhaina 2', cursive;
+}
+li{
+    font-family: 'Bree Serif', serif;
+}
+.Role{
+    background-color: #b99cf1;
+    border-radius: 10px;
+    text-align: center;
+}
+.contact li{
+    font-family: 'Baloo Bhaina 2', cursive;
+}
